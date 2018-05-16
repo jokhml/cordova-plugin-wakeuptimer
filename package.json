@@ -1,0 +1,28 @@
+{
+  "name": "cordova-plugin-wakeuptimer",
+  "version": "0.1.0",
+  "description": "Wakeup Plugin",
+  "cordova": {
+    "id": "org.nypr.cordova.wakeupplugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokhml/cordova-plugin-wakeuptimer.git"
+  },
+  "keywords": [
+    "sleep",
+    "wakeup",
+    "timer",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "wnyc",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/jokhml/cordova-plugin-wakeuptimer/issues"
+  },
+  "homepage": "https://github.com/jokhml/cordova-plugin-wakeuptimer#readme"
+}
